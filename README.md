@@ -1,2 +1,2 @@
 # lingo_bingo
-open_source free wordle clone discord applications
+open source free discord bot wordle clone.
